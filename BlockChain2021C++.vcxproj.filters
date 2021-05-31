@@ -21,6 +21,12 @@
     <ClCompile Include="sha256.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Blockchain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Block.h">

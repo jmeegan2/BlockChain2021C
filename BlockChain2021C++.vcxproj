@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Block.cpp" />
+    <ClCompile Include="Blockchain.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="sha256.cpp" />
   </ItemGroup>
   <ItemGroup>
